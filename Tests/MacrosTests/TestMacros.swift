@@ -8,7 +8,6 @@ import MacrosImplementation
 
 // define the macros that you want to test here for them to be accessible in individual test classes
 let testMacros: [String: Macro.Type] = [
-    "stringify": StringifyMacro.self,
     "Copyable": CopyableMacro.self
 ]
 #endif
