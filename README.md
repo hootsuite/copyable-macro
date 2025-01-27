@@ -6,7 +6,8 @@ Copyable is a Swift Macro used to bring Kotlin's `copy` functionality to Swift.
 Creates a new instance of the struct with all properties copied from the original, allowing selective modification of specific properties while keeping others unchanged 
 
 ## Installation
-TBD 
+TEST
+TEST
 
 ## Usage
 
